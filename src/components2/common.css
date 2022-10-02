@@ -1,0 +1,29 @@
+.main-app{
+    background-color: lightseagreen;
+    /* margin: 50px; */
+    text-align: center;
+    color: white;
+    padding: 40px;
+    border: 5px dotted black;
+    box-shadow: 10px 10px 10px blue;
+    border-radius: 50%;
+    width: 500px;
+    height: 500px;
+    margin: auto;
+    text-shadow: 10px 10px 10px black;
+}
+.div1{
+
+    float: left;
+    
+}
+.main{
+
+background-color: aqua;
+border: 2px solid black;
+
+}
+.sub2{
+
+    border: 2px solid black;
+}
